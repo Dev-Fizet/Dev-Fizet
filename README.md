@@ -1,10 +1,4 @@
 # Hi there, I'm Carlos Figueroa 👋
-
-
-  ___ _____ / |_ ____ ___   ____    ____  ____  / /_
- / __ `/ __ \/  _/ / __ `__ \ / __ \  / __ \/ __ \/ __/
-/ /_/ / /_/ / /_  / / / / / // /_/ / / /_/ / / / / /_  
-\__,_/\____/\__/ /_/ /_/ /_/ \____/ / .___/_/ /_/\__/  
                                    /_/                 
 Mechatronics Engineer | OT/ICS Cybersecurity & IIoT Hardening Expert
 
