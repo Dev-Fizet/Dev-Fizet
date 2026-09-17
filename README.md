@@ -1,36 +1,76 @@
 # Hi there, I'm Carlos Figueroa 👋
-            
-Mechatronics Engineer | OT/ICS Cybersecurity & IIoT Hardening Expert
 
-Specialized in Critical Infrastructure Protection, IT/OT Systems Convergence, Embedded Hardware Development, and IIoT Device Defense. Experienced in industrial risk management, incident response, and cybersecurity training.
+## Mechatronics Engineer | OT/ICS Cybersecurity & IIoT Hardening
 
-🛡️ Core Specializations
-OT / ICS Cybersecurity: Control Systems Hardening, ISA/IEC 62443, NIST Frameworks, versiondog configuration control, Acronis Disaster Recovery.
+I specialize in **critical infrastructure protection, industrial cybersecurity, IT/OT convergence, embedded systems, and IIoT security**.
 
-IIoT & Edge Computing: Security by Design implementation, Autinity Platform (Logger, CTL, DAP), Edge Device Defense.
+My experience includes industrial risk management, incident response, control-system hardening, embedded hardware development, and cybersecurity training.
 
-Monitoring & Incident Response: Event Correlation with Splunk, Active Asset Discovery with Nmap, Threat Mitigation & Phishing Simulations.
+## 🛡️ Core Specializations
 
-Embedded Systems & Microelectronics: ESP32, PIC, Arduino microcontrollers, C/C++ Firmware, Hardware & Software Diagnostics (SMD/SMT).
+### OT/ICS Cybersecurity
 
-🛠️ Tech Stack & Tooling
-Plaintext
-OT / ICS     :: ISA/IEC 62443 | NIST | Versiondog | Acronis | Autinity
-Security     :: Splunk | Nmap | Incident Response | Risk Analysis | Hardening
-Hardware/IoT :: ESP32 | PIC | Arduino | C/C++ | Embedded Linux | CAN Bus / OBD2
-Automation   :: PLC Programming | Edge Computing | Industrial Protocols
-👨‍🏫 Training & Impact
-Former Instructor @ Tecnológico de Monterrey: Delivered specialized technical training across Mexico and South America (Colombia).
+- Control systems hardening
+- ISA/IEC 62443
+- NIST Cybersecurity Framework
+- Versiondog configuration control
+- Acronis disaster recovery
 
-International Experience: On-site OT/IT systems implementation and support across Mexico and international projects (Brazil).
+### IIoT & Edge Computing
 
-🌐 Connect & Socials
-LinkedIn: in/carlos-fizet
+- Security by Design
+- Edge device protection
+- Autinity Platform: Logger, CTL, and DAP
+- Industrial data acquisition and monitoring
 
-GitHub: @Dev-Fizet
+### Monitoring & Incident Response
 
+- Event correlation with Splunk
+- Active asset discovery with Nmap
+- Threat mitigation
+- Phishing simulations
+- Industrial risk analysis
 
-<Elicitations message="¿Quieres añadir algo más a tu perfil?">
-  <Elicitation label="Agregar badges de tecnologías" query="¿Cómo agrego badges de tecnologías con logos y colores en mi README de GitHub?"/>
-  <Elicitation label="Mostrar repositorios fijados" query="¿Cómo selecciono los repositorios que quiero destacar (Pinned) en mi perfil?"/>
-</Elicitations>
+### Embedded Systems & Electronics
+
+- ESP32, PIC, and Arduino
+- C/C++ firmware development
+- Embedded Linux
+- Hardware and software diagnostics
+- SMD/SMT technologies
+- CAN Bus and OBD2
+
+## 🛠️ Technologies & Tools
+
+| Area | Technologies |
+|---|---|
+| OT/ICS | ISA/IEC 62443, NIST, Versiondog, Acronis, Autinity |
+| Cybersecurity | Splunk, Nmap, Incident Response, Risk Analysis, Hardening |
+| Embedded Systems | ESP32, PIC, Arduino, C, C++, Embedded Linux |
+| Industrial Automation | PLC Programming, Edge Computing, Industrial Protocols |
+| Automotive Electronics | CAN Bus, OBD2, Microcontrollers |
+
+## 👨‍🏫 Training & Professional Experience
+
+- Former instructor at **Tecnológico de Monterrey**
+- Delivered specialized technical training across Mexico and South America
+- Experience implementing and supporting OT/IT systems in international projects
+- On-site project experience in Mexico and Brazil
+
+## 📌 Areas of Interest
+
+- OT/ICS cybersecurity and industrial network defense
+- IIoT security and edge-device hardening
+- Embedded systems and firmware development
+- Industrial protocol analysis
+- Cybersecurity automation
+- Hardware diagnostics and reverse engineering
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/carlos-fizet)
+- [GitHub](https://github.com/Dev-Fizet)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me.
