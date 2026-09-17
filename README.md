@@ -1,5 +1,5 @@
 # Hi there, I'm Carlos Figueroa 👋
-                                   /_/                 
+            
 Mechatronics Engineer | OT/ICS Cybersecurity & IIoT Hardening Expert
 
 Specialized in Critical Infrastructure Protection, IT/OT Systems Convergence, Embedded Hardware Development, and IIoT Device Defense. Experienced in industrial risk management, incident response, and cybersecurity training.
